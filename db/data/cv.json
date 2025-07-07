@@ -1,0 +1,127 @@
+{
+  "personal_info": {
+    "name": "Alexandru Cercel",
+    "title": "Front-end Developer",
+    "email": "cercel.alexandru436@gmail.com",
+    "phone": "+44 7770282405",
+    "location": "London, UK",
+    "linkedin": "LinkedIn",
+    "github": "GitHub"
+  },
+  "summary": "I’m a Front-end developer with a strong background in hospitality. I spent several years in leadership roles, where I gained valuable experience in team coordination, problem-solving, and delivering outstanding customer service. Now, I apply those strengths to build user-friendly, intuitive web applications. I’m excited to contribute to fast-paced, team-orientated projects and help create seamless digital experiences.",
+  "technical_skills": {
+    "languages": ["JavaScript", "TypeScript", "HTML", "CSS", "Ruby", "SQL"],
+    "frameworks_and_libraries": ["React", "Vue", "Next", "Remix", "Stimulus", "Bootstrap", "Tailwind", "Ruby on Rails"],
+    "tools_and_technologies": ["Git", "GitHub", "Docker", "PostgreSQL", "MySQL", "Firebase", "Heroku", "Vercel", "Netlify", "Figma", "SEO"]
+  },
+  "projects": [
+    {
+      "name": "Plan&Go",
+      "subtitle": "AI-Powered Travel Planner",
+      "status": "Ongoing Development",
+      "date": "June 2025",
+      "description": "Team project for Le Wagon bootcamp – Full-stack web application.",
+      "highlights": [
+        "Implemented a dynamic, Mapbox-powered interactive map that allows users to search for locations and friends, with trip markers updating in real-time.",
+        "Collaborated on UX/UI design to create a clean, intuitive interface.",
+        "Helped build an AI-driven itinerary generator using OpenAI API for personalized day-by-day plans."
+      ],
+      "github": "https://github.com/Alez05/plan-go"
+    },
+    {
+      "name": "PowerUp Marketplace",
+      "subtitle": "Team-built MVP",
+      "date": "May 2025",
+      "highlights": [
+        "Built a marketplace MVP for fictional PowerUps with full CRUD features.",
+        "Contributed across the stack on features, styling, and data models.",
+        "Collaboratively designed UI components and wireframes in Figma.",
+        "Gained experience working in a fast-paced, team coding environment."
+      ],
+      "github": "https://github.com/Alez05/power_ups"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Le Wagon",
+      "program": "Full-stack web development bootcamp",
+      "location": "London",
+      "date": "03/2025 – 06/2025",
+      "details": [
+        "Built with confidence using Ruby on Rails and understood MVC pattern.",
+        "Worked with relational databases on real-world projects.",
+        "Created responsive UIs with HTML, CSS, SASS, and JavaScript.",
+        "Developed UX/UI skills through prototyping and feedback loops.",
+        "Covered full product cycle from back-end logic to deployment."
+      ]
+    },
+    {
+      "institution": "Axiopolis Technological High School",
+      "program": "Automation Electronics",
+      "location": "Romania",
+      "date": "09/2015 – 06/2019",
+      "qualification": "High School Diploma"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Front-end Web Developer",
+      "company": "WoW DoP",
+      "type": "Contract",
+      "location": "London",
+      "date": "09/2022 – 01/2024",
+      "responsibilities": [
+        "Improved performance of large React apps by reducing UI load times and fixing visual/data issues.",
+        "Assisted in migrating JavaScript to TypeScript and improving code structure.",
+        "Helped redesign UI elements for better accessibility and usability.",
+        "Worked on cross-browser testing and pushed accessibility scores from under 30% to over 90%.",
+        "Collaborated closely with senior developers and took initiative on high-volume work.",
+        "Stack: React, TypeScript, styled-components, HTML, CSS, Jest, Git, Figma."
+      ]
+    },
+    {
+      "role": "Assistant Manager",
+      "company": "Bounce",
+      "location": "London",
+      "date": "09/2023 – Present",
+      "responsibilities": [
+        "Improved shift operations by identifying and solving bottlenecks.",
+        "Trained new staff to improve onboarding efficiency.",
+        "Gained leadership and communication skills applicable to tech team environments."
+      ]
+    },
+    {
+      "role": "Supervisor",
+      "company": "Bounce",
+      "location": "London",
+      "date": "06/2021 – 09/2023",
+      "responsibilities": [
+        "Led and motivated teams to ensure excellent service.",
+        "Monitored performance metrics and addressed issues quickly.",
+        "Maintained composure and team efficiency during peak times."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "SEO Fundamentals",
+      "issuer": "HubSpot Academy",
+      "date": "Aug 2023 – Mar 2026"
+    },
+    {
+      "name": "ECDL Fundamentals",
+      "issuer": "ECDL Romania",
+      "date": "Dec 2018 – May 2019"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "level": "Advanced"
+    },
+    {
+      "language": "Romanian",
+      "level": "Native"
+    }
+  ]
+}
