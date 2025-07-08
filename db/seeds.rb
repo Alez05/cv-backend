@@ -28,9 +28,10 @@ cv.update!(summary: cv_data['summary'])
 # Technical Skills
 ts = cv_data['technical_skills']
 TechnicalSkill.create!(
-  languages: ts['languages'].join(', '),
-  frameworks: ts['frameworks_and_libraries'].join(', '),
-  tools: ts['tools_and_technologies'].join(', '),
+  languages: ts['languages'] || [],
+  frameworks: ts['frameworks'] || [],
+  tools: ts['tools'] || [],
+  soft: ts['soft'] || [],
   cv: cv
 )
 
