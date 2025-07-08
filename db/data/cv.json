@@ -5,14 +5,26 @@
     "email": "cercel.alexandru436@gmail.com",
     "phone": "+44 7770282405",
     "location": "London, UK",
-    "linkedin": "LinkedIn",
-    "github": "GitHub"
+    "linkedin": "https://www.linkedin.com/in/alexandru-cercel/",
+    "github": "https://github.com/Alez05"
   },
   "summary": "I’m a Front-end developer with a strong background in hospitality. I spent several years in leadership roles, where I gained valuable experience in team coordination, problem-solving, and delivering outstanding customer service. Now, I apply those strengths to build user-friendly, intuitive web applications. I’m excited to contribute to fast-paced, team-orientated projects and help create seamless digital experiences.",
   "technical_skills": {
     "languages": ["JavaScript", "TypeScript", "HTML", "CSS", "Ruby", "SQL"],
-    "frameworks_and_libraries": ["React", "Vue", "Next", "Remix", "Stimulus", "Bootstrap", "Tailwind", "Ruby on Rails"],
-    "tools_and_technologies": ["Git", "GitHub", "Docker", "PostgreSQL", "MySQL", "Firebase", "Heroku", "Vercel", "Netlify", "Figma", "SEO"]
+    "frameworks": ["React", "Vue", "Next", "Remix", "Stimulus", "Bootstrap", "Tailwind", "Ruby on Rails"],
+    "tools": ["Git", "GitHub", "Docker", "PostgreSQL", "MySQL", "Firebase", "Heroku", "Vercel", "Netlify", "Figma", "SEO"],
+    "soft": [
+  "Time management",
+  "Adaptability",
+  "Empathy",
+  "Problem-solving",
+  "Team collaboration",
+  "Attention to detail",
+  "Communication",
+  "Critical thinking",
+  "Leadership",
+  "Self-motivation"
+]
   },
   "projects": [
     {

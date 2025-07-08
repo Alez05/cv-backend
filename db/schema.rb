@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.1].define(version: 2025_07_07_133153) do
+ActiveRecord::Schema[7.1].define(version: 2025_07_08_102130) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
@@ -101,9 +101,10 @@ ActiveRecord::Schema[7.1].define(version: 2025_07_07_133153) do
   end
 
   create_table "technical_skills", force: :cascade do |t|
-    t.string "languages"
-    t.string "frameworks"
-    t.string "tools"
+    t.text "languages"
+    t.text "frameworks"
+    t.text "tools"
+    t.text "soft"
     t.bigint "cv_id", null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
