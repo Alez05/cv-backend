@@ -1,13 +1,12 @@
 class CreateExperiences < ActiveRecord::Migration[7.1]
   def change
     create_table :experiences do |t|
-      t.string :role
-      t.string :company
-      t.string :job_type
-      t.string :location
-      t.string :date
-      t.text :responsibilities
       t.references :cv, null: false, foreign_key: true
+      t.string :name
+      t.string :location
+      t.date :date
+      t.text :details
+      t.string :title
 
       t.timestamps
     end
